@@ -1,5 +1,5 @@
-node_modules/
-**/.vscode/
+**/freecodecamp_nodejs/node_modules/**
+
 
 
 
